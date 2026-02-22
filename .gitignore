@@ -1,0 +1,7 @@
+feed2readme
+!feed2readme/
+feed2readme.toml
+
+.DS_Store
+*.md
+!README.md
