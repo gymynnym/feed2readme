@@ -1,0 +1,3 @@
+builds:
+  - id: feed2readme
+    main: ./cmd/feed2readme
